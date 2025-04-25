@@ -1,0 +1,12 @@
+Index: GitProgect/script2.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/GitProgect/script2.js b/GitProgect/script2.js
+new file mode 100644
+--- /dev/null	(date 1745614334857)
++++ b/GitProgect/script2.js	(date 1745614334857)
+@@ -0,0 +1,1 @@
++console.log("Hello World!");
+\ No newline at end of file
