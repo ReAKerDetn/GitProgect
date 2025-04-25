@@ -7,3 +7,5 @@ console.log(10);
 console.log(11)
 
 console.log(100)
+
+console.log(2);
